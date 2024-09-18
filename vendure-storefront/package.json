@@ -37,7 +37,7 @@
     "braintree-web-drop-in": "^1.33.7",
     "clsx": "^1.2.1",
     "cross-env": "^7.0.3",
-    "graphql": "^16.6.0",
+    "graphql": "^16.8.1",
     "graphql-tag": "^2.12.6",
     "i18next": "^23.7.7",
     "i18next-browser-languagedetector": "^7.2.0",
@@ -51,7 +51,7 @@
     "remix": "^2.4.1",
     "remix-i18next": "^5.5.0",
     "remix-validated-form": "^5.1.5",
-    "zod": "^3.21.4"
+    "zod": "^3.22.3"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20231218.0",
@@ -67,7 +67,7 @@
     "concurrently": "^7.5.0",
     "husky": "^8.0.0",
     "lint-staged": "^13.0.3",
-    "postcss": "^8.4.19",
+    "postcss": "^8.4.31",
     "prettier": "^2.6.2",
     "tailwindcss": "^3.4.1",
     "ts-node": "^10.9.1",
